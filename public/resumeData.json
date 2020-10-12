@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name": "Adrián Ambrosetti",
+    "occupation": "ReactJS Developer",
+    "description": "Full Stack React Developer",
+    "image": "adrian-image.JPG",
+    "bio": "My name is Adrián, I'm a Full Stack ReactJS Developer",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "adrianambrosetti@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": ""
+    },
+    "website": "https://adrian-ambrosetti-portfolio.netlify.app/",
+    "resumedownload": "https://adrian-ambrosetti-portfolio.netlify.app/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/adrian.ambrosetti",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/adrian-ambrosetti/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/aaambrosetti/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/adrianetti",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "These are my skills so far",
+    "education": [
+      {
+        "school": "Universidad Nacional Experimental del Táchira",
+        "degree": "Computer Engineering",
+        "graduated": "2018",
+        "description": "Studying"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelancing",
+        "title": "Software development",
+        "years": "2020 - Present",
+        "description": "Ready for working on new projects, specially web development."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJS",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Firebase",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Django",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "WhatsApp Clone",
+        "category": "WhatsApp Clone built with ReactJS and deployed with Firebase",
+        "image": "WhatsApp.png",
+        "url": "https://whatsapp-clone-adrian.web.app/"
+      },
+      {
+        "title": "Messenger Clone",
+        "category": "Messenger Clone built with ReactJS and deployed with Firebase",
+        "image": "messenger.png",
+        "url": "https://github.com/adrianetti/fb-messenger-clon"
+      },
+      {
+        "title": "TODO React App",
+        "category": "A to-do web app built with ReactJS",
+        "image": "TodoApp.png",
+        "url": "https://github.com/adrianetti/todo-app-react"
+      },
+      {
+        "title": "Instagram Clone",
+        "category": "Instagram Clone built with ReactJS",
+        "image": "instagram.jpg",
+        "url": "https://github.com/adrianetti/instagram-clone-react"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "You don't have to see the whole staircase, just take the first step.",
+        "user": "Martin Luther King, Jr."
+      }
+    ]
+  }
+}
